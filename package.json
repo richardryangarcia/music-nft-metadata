@@ -1,6 +1,6 @@
 {
   "name": "music-nft-metadata",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A minimal typescript types package for the evolving music nft metadata standards schema",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
