@@ -1,6 +1,6 @@
 export type FormattedName = `${string} - ${string}`; // <artist> — <title>
 export type ISO8601Date = `${number}-${number}-${number}`; // YYYY-MM-DD
-export type MetadataVersions = "music-nft-20220222";
+export type MetadataVersions = "catalog-20220222";
 
 export type Attributes = {
   artist: string;
